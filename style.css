@@ -1,0 +1,15 @@
+p {
+  color: orangered;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  margin-left: 2px;
+}
+div.box {
+  margin-left: 4px;
+  position: relative;
+  left: 500px;
+  background-color: antiquewhite;
+  box-shadow: 0 0 20px orangered;
+  width: 36.5%;
+}
